@@ -7,6 +7,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined%20GitHub-July%2018%2C%202025-011627?style=flat-square&logo=github&logoColor=7fdbca&labelColor=0b2942&color=011627" alt="Joined GitHub July 18, 2025" />
+</p>
+
+<p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Developer Banner" width="100%" />
 </p>
 
@@ -83,9 +87,15 @@
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaanug&theme=nightowl"
-    alt="GitHub Profile Overview"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaanug&theme=nightowl"
+    alt="GitHub Detailed Stats"
+  />
+  &nbsp;
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaanug&theme=nightowl&utcOffset=5.5"
+    alt="GitHub Productive Time"
   />
 </p>
 
@@ -201,9 +211,9 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
   &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
   &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
   &nbsp;
