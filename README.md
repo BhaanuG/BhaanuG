@@ -148,7 +148,7 @@
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -180,8 +180,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend Development & Frameworks
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
@@ -211,7 +213,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" />
 </p>
 
-### 🚢 DevOps & Containers
+### 🚀 DevOps & Infrastructure
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
   &nbsp;&nbsp;
