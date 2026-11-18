@@ -114,20 +114,18 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Highlights
 
 <p align="center">
   <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="85" alt="YOLO Achievement" title="YOLO - Merged a pull request without code review" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="Achievement: YOLO" title="Achievement: YOLO" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="85" alt="Pull Shark Achievement" title="Pull Shark - Opened pull requests that were merged" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw Achievement" title="Quickdraw - Closed an issue or pull request within 5 minutes" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Program-Member-0969DA?style=flat-square&logo=github&logoColor=white" alt="Developer Program Member" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-PRO-8957E5?style=flat-square&logo=github&logoColor=white" alt="GitHub PRO" />
 </p>
 
 ---
