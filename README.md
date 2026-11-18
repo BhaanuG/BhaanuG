@@ -241,11 +241,32 @@
 ## 🌐 Community & Leadership
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KLEF-ACM%20Student%20Chapter-blue?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Web%20Master-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KLEF-ACM%20Student%20Chapter-0075FF?style=for-the-badge&logo=acm&logoColor=white" alt="KLEF ACM" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Web%20Master-FF6C37?style=for-the-badge" alt="Role Web Master" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Community-Tech%20%26%20Open%20Source-2EA44F?style=for-the-badge" alt="Tech & Open Source" />
 </p>
 
-As Web Master at the KLEF ACM Student Chapter, I am interested in contributing to the chapter's digital presence, collaborating with fellow developers, and supporting technical initiatives and events.
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🌐</h3>
+      <b>Digital Presence & Infrastructure</b>
+      <p>Architecting and maintaining the official web platforms, ensuring high availability, performance, and seamless access for student members.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>👥</h3>
+      <b>Mentorship & Collaboration</b>
+      <p>Conducting hands-on coding sessions, mentoring junior developers in full-stack technologies, and organizing technical hackathons.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🚀</h3>
+      <b>Technical Initiatives</b>
+      <p>Leading development sprints for chapter projects, managing open-source contributions, and driving student engagement through tech.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
