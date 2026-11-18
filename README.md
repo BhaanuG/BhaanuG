@@ -61,5 +61,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
-<p align="center"><sub>Bhaanu G · <a href="https://www.gitskins.com/readme-generator?template=community-preview">creative dev Remix</a> template by <a href="https://www.gitskins.com/creators/BhaanuG">@BhaanuG</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
