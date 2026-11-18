@@ -12,6 +12,37 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">🚀 Project</th>
+      <th align="left" width="70%">📖 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/BhaanuG">Fundwise</a></b></td>
+      <td>Scholarship and financial-aid management system.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BhaanuG">EduQuest</a></b></td>
+      <td>Educational platform development project.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BhaanuG">Zyndex</a></b></td>
+      <td>Academic registration portal with a modern UI.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/BhaanuG">GBS Ai</a></b></td>
+      <td>ISRO-focused question-answer chatbot.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📌 About Me
 
 - 🎓 Third-year B.Tech CSE student specializing in **AI for Computational Intelligence**.
@@ -48,18 +79,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| **Fundwise** | Scholarship and financial-aid management system. |
-| **EduQuest** | Educational platform development project. |
-| **Zyndex** | Academic registration portal with a modern UI. |
-| **GBS Ai** | ISRO-focused question-answer chatbot. |
-
----
-
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Overview
 
 <table align="center" width="90%" border="0">
   <tr>
@@ -84,6 +104,7 @@
 
 <p align="center">
   <img
+    width="500px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaanug&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400"
     alt="Most Used Languages"
   />
@@ -93,8 +114,9 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=bhaanug&theme=nightowl&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaanug&theme=nightowl"
+    alt="GitHub Profile Overview"
   />
 </p>
 
@@ -203,7 +225,7 @@ As Web Master at the KLEF ACM Student Chapter, I am interested in contributing t
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhaanuG/BhaanuG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhaanuG/Readme/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
