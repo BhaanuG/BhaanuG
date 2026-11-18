@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Joined%20GitHub-July%2018%2C%202025-011627?style=flat-square&logo=github&logoColor=7fdbca&labelColor=0b2942&color=011627" alt="Joined GitHub July 18, 2025" />
-</p>
-
-<p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Developer Banner" width="100%" />
 </p>
 
@@ -108,6 +104,12 @@
     alt="GitHub Activity Graph"
     width="100%"
   />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined%20GitHub-July%2018%2C%202025-011627?style=flat-square&logo=github&logoColor=7fdbca&labelColor=0b2942&color=011627" alt="Joined GitHub July 18, 2025" />
 </p>
 
 ---
