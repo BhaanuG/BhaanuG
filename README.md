@@ -12,37 +12,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="30%">🚀 Project</th>
-      <th align="left" width="70%">📖 Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b><a href="https://github.com/BhaanuG">Fundwise</a></b></td>
-      <td>Scholarship and financial-aid management system.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/BhaanuG">EduQuest</a></b></td>
-      <td>Educational platform development project.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/BhaanuG">Zyndex</a></b></td>
-      <td>Academic registration portal with a modern UI.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/BhaanuG">GBS Ai</a></b></td>
-      <td>ISRO-focused question-answer chatbot.</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ## 📌 About Me
 
 - 🎓 Third-year B.Tech CSE student specializing in **AI for Computational Intelligence**.
@@ -130,6 +99,24 @@
     width="100%"
   />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- PROJECTS:START -->
+<div align="center">
+
+| 🚀 Project | 📖 Description |
+| :--- | :--- |
+| **[Zyndex](https://github.com/BhaanuG/Zyndex-MS)** | Academic registration portal & digital library platform with modern microservices. |
+| **[Academic Registration Portal](https://github.com/BhaanuG/Academic-Registration-Portal-Y23)** | Enterprise registration & 5D cohort faculty preference engine for KLEF. |
+| **[EduQuest](https://github.com/BhaanuG/EduQuest-Path)** | Educational platform development & career roadmap system. |
+| **[Fundwise](https://github.com/BhaanuG)** | Scholarship and financial-aid management system. |
+| **[GBS Ai](https://github.com/BhaanuG)** | ISRO-focused question-answer intelligent chatbot. |
+
+</div>
+<!-- PROJECTS:END -->
 
 ---
 
