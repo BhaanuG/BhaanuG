@@ -114,6 +114,24 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="85" alt="YOLO Achievement" title="YOLO - Merged a pull request without code review" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="85" alt="Pull Shark Achievement" title="Pull Shark - Opened pull requests that were merged" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="85" alt="Quickdraw Achievement" title="Quickdraw - Closed an issue or pull request within 5 minutes" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <!-- PROJECTS:START -->
@@ -208,7 +226,7 @@
         &nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
         &nbsp;&nbsp;
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
         &nbsp;&nbsp;
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
         &nbsp;&nbsp;
