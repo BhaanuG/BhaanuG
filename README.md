@@ -54,14 +54,14 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=bhaanug&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&cache_seconds=86400"
+        src="https://github-readme-stats.vercel.app/api?username=bhaanug&show_icons=true&theme=nightowl&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&cache_seconds=1800"
         width="100%"
         alt="Bhaanu G GitHub Stats"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://streak-stats.demolab.com/?user=bhaanug&theme=nightowl&hide_border=true&background=00000000&cache_seconds=86400"
+        src="https://streak-stats.demolab.com/?user=bhaanug&theme=nightowl&hide_border=true&background=00000000&cache_seconds=1800"
         width="100%"
         alt="Bhaanu G GitHub Streak"
       />
@@ -74,7 +74,7 @@
 <p align="center">
   <img
     width="500px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaanug&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaanug&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=1800"
     alt="Most Used Languages"
   />
 </p>
@@ -294,7 +294,7 @@
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhaanuG/Readme/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhaanuG/BhaanuG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
