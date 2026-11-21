@@ -152,7 +152,7 @@
 
 <div align="center">
 
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
   &nbsp;&nbsp;
@@ -165,7 +165,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
 </p>
 
-### 🎨 Frontend Development
+<h3>🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
   &nbsp;&nbsp;
@@ -180,7 +180,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
 </p>
 
-### ⚙️ Backend Development & Frameworks
+<h3>⚙️ Backend Development & Frameworks</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   &nbsp;&nbsp;
@@ -189,7 +189,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
 </p>
 
-### 🗄️ Databases & Caching
+<h3>🗄️ Databases & Caching</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
   &nbsp;&nbsp;
@@ -202,7 +202,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" />
 </p>
 
-### ☁️ Cloud Platforms
+<h3>☁️ Cloud Platforms</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="48" height="48" />
   &nbsp;&nbsp;
@@ -213,7 +213,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" />
 </p>
 
-### 🚀 DevOps & Infrastructure
+<h3>🚀 DevOps & Infrastructure</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
   &nbsp;&nbsp;
@@ -222,7 +222,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" />
 </p>
 
-### 🛠️ Developer Tools & Design
+<h3>🛠️ Developer Tools & Design</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
   &nbsp;&nbsp;
