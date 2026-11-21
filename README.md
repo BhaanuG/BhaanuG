@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 About Me
+<div align="center"><h1>📌 About Me</h1></div>
 
 - 🎓 Third-year B.Tech CSE student specializing in **AI for Computational Intelligence**.
 - 🌐 **Web Master at KLEF ACM Student Chapter**.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 What I Do
+<div align="center"><h1>🎯 What I Do</h1></div>
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats & Overview
+<div align="center"><h1>📊 GitHub Stats & Overview</h1></div>
 
 <table align="center" width="90%" border="0">
   <tr>
@@ -114,7 +114,7 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+<div align="center"><h1>🏆 Achievements & Highlights</h1></div>
 
 <p align="center">
   <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
@@ -130,7 +130,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<div align="center"><h1>🚀 Featured Projects</h1></div>
 
 <!-- PROJECTS:START -->
 <div align="center">
@@ -148,7 +148,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<div align="center"><h1>🛠️ Languages & Tools</h1></div>
 
 <div align="center">
 
@@ -241,7 +241,7 @@
 
 ---
 
-## 🌐 Community & Leadership
+<div align="center"><h1>🌐 Community & Leadership</h1></div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/KLEF-ACM%20Student%20Chapter-0075FF?style=for-the-badge&logo=acm&logoColor=white" alt="KLEF ACM" />
@@ -273,7 +273,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<div align="center"><h1>🔗 Connect With Me</h1></div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gbhaanu" target="_blank">
@@ -291,7 +291,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+<div align="center"><h1>🐍 Contribution Activity</h1></div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhaanuG/BhaanuG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
