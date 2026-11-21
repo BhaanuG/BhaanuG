@@ -283,6 +283,10 @@
   <a href="mailto:bhaanugali@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/g_bhaanu_sai" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40" />
+  </a>
 </p>
 
 ---
