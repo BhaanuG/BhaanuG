@@ -281,11 +281,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:bhaanugali@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/BhaanuG">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="40" height="40" />
   </a>
 </p>
 
