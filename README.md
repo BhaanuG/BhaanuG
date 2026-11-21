@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=70&lines=Hey+%F0%9F%91%8B+I'm+Bhaanu+Gali" alt="Hey I'm Bhaanu Gali" />
 </p>
 
-<p align="center">
-  <b><font size="4">Full-Stack Developer | AI Enthusiast | UI/UX Designer</font></b>
-</p>
+<h3 align="center">
+  Full-Stack Developer | AI Enthusiast | UI/UX Designer
+</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Developer Banner" width="100%" />
@@ -12,9 +12,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">📌 About Me</font></b>
-</p>
+<h2 align="center">📌 About Me</h2>
 
 - 🎓 Third-year B.Tech CSE student specializing in **AI for Computational Intelligence**.
 - 🌐 **Web Master at KLEF ACM Student Chapter**.
@@ -26,24 +24,22 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🎯 What I Do</font></b>
-</p>
+<h2 align="center">🎯 What I Do</h2>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <p><b><font size="4">💻</font></b></p>
+      <h3>💻</h3>
       <b>Full-Stack Development</b>
       <p>Building modern, responsive, and scalable web applications.</p>
     </td>
     <td width="33%" align="center">
-      <p><b><font size="4">🤖</font></b></p>
+      <h3>🤖</h3>
       <b>AI Integration</b>
       <p>Exploring intelligent applications and integrating AI into software.</p>
     </td>
     <td width="33%" align="center">
-      <p><b><font size="4">🎨</font></b></p>
+      <h3>🎨</h3>
       <b>UI/UX Design</b>
       <p>Creating original interfaces through hands-on design and creative thinking.</p>
     </td>
@@ -52,9 +48,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">📊 GitHub Stats & Overview</font></b>
-</p>
+<h2 align="center">📊 GitHub Stats & Overview</h2>
 
 <table align="center" width="90%" border="0">
   <tr>
@@ -120,9 +114,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🏆 Achievements & Highlights</font></b>
-</p>
+<h2 align="center">🏆 Achievements & Highlights</h2>
 
 <p align="center">
   <a href="https://github.com/BhaanuG?tab=achievements" target="_blank">
@@ -138,9 +130,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🚀 Featured Projects</font></b>
-</p>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <!-- PROJECTS:START -->
 <div align="center">
@@ -158,13 +148,11 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🛠️ Languages & Tools</font></b>
-</p>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <div align="center">
 
-<p align="center"><b><font size="3">💻 Programming Languages</font></b></p>
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
   &nbsp;&nbsp;
@@ -177,7 +165,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">🎨 Frontend Development</font></b></p>
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
   &nbsp;&nbsp;
@@ -192,7 +180,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">⚙️ Backend Development & Frameworks</font></b></p>
+<h3 align="center">⚙️ Backend Development & Frameworks</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
   &nbsp;&nbsp;
@@ -201,7 +189,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">🗄️ Databases & Caching</font></b></p>
+<h3 align="center">🗄️ Databases & Caching</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
   &nbsp;&nbsp;
@@ -214,7 +202,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">☁️ Cloud Platforms</font></b></p>
+<h3 align="center">☁️ Cloud Platforms</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="48" height="48" />
   &nbsp;&nbsp;
@@ -225,7 +213,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">🚀 DevOps & Infrastructure</font></b></p>
+<h3 align="center">🚀 DevOps & Infrastructure</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
   &nbsp;&nbsp;
@@ -234,7 +222,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" />
 </p>
 
-<p align="center"><b><font size="3">🛠️ Developer Tools & Design</font></b></p>
+<h3 align="center">🛠️ Developer Tools & Design</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
   &nbsp;&nbsp;
@@ -253,9 +241,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🌐 Community & Leadership</font></b>
-</p>
+<h2 align="center">🌐 Community & Leadership</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/KLEF-ACM%20Student%20Chapter-0075FF?style=for-the-badge&logo=acm&logoColor=white" alt="KLEF ACM" />
@@ -268,17 +254,17 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <p><b><font size="4">🌐</font></b></p>
+      <h3>🌐</h3>
       <b>Digital Presence & Infrastructure</b>
       <p>Architecting and maintaining the official web platforms, ensuring high availability, performance, and seamless access for student members.</p>
     </td>
     <td width="33%" align="center">
-      <p><b><font size="4">👥</font></b></p>
+      <h3>👥</h3>
       <b>Mentorship & Collaboration</b>
       <p>Conducting hands-on coding sessions, mentoring junior developers in full-stack technologies, and organizing technical hackathons.</p>
     </td>
     <td width="33%" align="center">
-      <p><b><font size="4">🚀</font></b></p>
+      <h3>🚀</h3>
       <b>Technical Initiatives</b>
       <p>Leading development sprints for chapter projects, managing open-source contributions, and driving student engagement through tech.</p>
     </td>
@@ -287,9 +273,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🔗 Connect With Me</font></b>
-</p>
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gbhaanu" target="_blank">
@@ -307,9 +291,7 @@
 
 ---
 
-<p align="center">
-  <b><font size="5">🐍 Contribution Activity</font></b>
-</p>
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhaanuG/BhaanuG/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
@@ -321,9 +303,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Animation" width="100%" />
 </p>
 
-<p align="center">
-  <i><b><font size="3">Learn with purpose. Build with precision. Contribute with impact.</font></b></i>
-</p>
+<h3 align="center">
+  Learn with purpose. Build with precision. Contribute with impact.
+</h3>
 
 <p align="center">
   <sub>Designed & Developed by <a href="https://github.com/BhaanuG">@BhaanuG</a></sub>
